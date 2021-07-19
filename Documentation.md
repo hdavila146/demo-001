@@ -16,4 +16,5 @@ To test the demo-001, clone the repository and run go test -v 30m terraform_S3_t
 
 For example: \
 $ cd demo-001/ \
-$ go test -v 30m terraform_S3_test.go 
+$ go test -v 30m terraform_S3_test.go \
+Test Change PR
